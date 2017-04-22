@@ -1,0 +1,146 @@
+body
+{
+	color: #000;
+}
+
+/* ============================ Background Style ============================ */
+.skin-bg-white
+{
+	color: #374047;
+	background : #FFFFFF;
+	border-radius:0px;
+}
+
+.skin-bg-black
+{
+	color: #FFFFFF;
+	border-radius:0px;
+	background : #374047;
+}
+
+.skin-bg-red
+{
+	color:#fff;
+	border-radius:0px;
+	background: #E3000E;
+}
+/* ============================ End Background Style ============================ */
+
+/* ============================ Button Style ============================ */
+/* Blue Button */
+.btn-bg-blue
+{
+	color:#fff;
+	background: #3498DB;
+	border-radius :none;
+	border:none;
+	font-family: 'Roboto';
+	transition: .5s ease;
+	cursor: hand;
+}
+
+.btn-bg-blue:hover,
+.btn-bg-blue:focus
+{
+	color:#fff;
+	background: #1A4C6D;
+	border-radius :none;
+	border:none;
+	font-family: 'Roboto';
+	transition-delay: 'background';
+	transition: .5s ease;
+	cursor: hand;
+}
+
+/* Gray Button */
+.btn-bg-gray
+{
+	color:#fff;
+	background: #5E626C;
+	border-radius :none;
+	border:none;
+	font-family: 'Roboto';
+	transition: .5s ease;
+	cursor: hand;
+}
+
+.btn-bg-gray:hover,
+.btn-bg-gray:focus
+{
+	color:#fff;
+	background: #3B3F4C;
+	border-radius :none;
+	border:none;
+	font-family: 'Roboto';
+	transition-delay: 'background';
+	transition: .5s ease;
+	cursor: hand;
+}
+/* ============================ End Button Style ============================ */
+
+.no-radius
+{
+	border-radius: 0px;
+}
+
+.txt_size-1em
+{
+	font-size: 1.2em;
+	color:#000;
+}
+
+.text-bold
+{
+	font-weight: bold;
+}
+
+.text-normal
+{
+	font-weight: normal;
+}
+
+.no-resize
+{
+	resize: none;
+}
+
+.padding-bottom-1
+{
+	padding-bottom: 10px;
+}
+.padding-bottom-2
+{
+	padding-bottom: 20px;
+}
+.padding-bottom-3
+{
+	padding-bottom: 30px;
+}
+.padding-bottom-4
+{
+	padding-bottom: 40px;
+}
+.padding-bottom-5
+{
+	padding-bottom: 50px;
+}
+.padding-bottom-6
+{
+	padding-bottom: 60px;
+}
+.padding-bottom-7
+{
+	padding-bottom: 70px;
+}
+.padding-bottom-8
+{
+	padding-bottom: 80px;
+}
+.padding-bottom-9
+{
+	padding-bottom: 90px;
+}
+.padding-bottom-10
+{
+	padding-bottom: 100px;
+}
